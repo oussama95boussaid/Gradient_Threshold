@@ -10,11 +10,10 @@ In this project, I used various aspects of your gradient measurements (x, y, mag
 
 <img src ="Thresholded_Magnitude.png">
 
-** Direction of the Gradient**
-
+**Direction of the Gradient**
 
 <img src ="Thresholded_Grad_Dir.png">
 
 **Combining Thresholds**
 
-<img src ="Combining_Thresholds.png">
+<img src = "Combining_Thresholds.png">
