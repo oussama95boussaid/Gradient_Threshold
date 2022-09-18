@@ -4,17 +4,17 @@ In this project, I used various aspects of your gradient measurements (x, y, mag
 
 **Sobel Operator**
 
-<img src =" ">
+<img src ="Thresholded_x-derivative.png">
 
 **Magnitude of the Gradient**
 
-<img src =" ">
+<img src ="Thresholded_Magnitude.png">
 
 ** Direction of the Gradient**
 
 
-<img src =" ">
+<img src ="Thresholded_Grad_Dir.png">
 
 **Combining Thresholds**
 
-<img src =" ">
+<img src ="Combining_Thresholds.png">
