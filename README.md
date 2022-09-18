@@ -1,2 +1,2 @@
-# Gradient_Threshold
-Gradient Threshold :  Canny edge detection algorithm
+# Gradient Threshold :  Canny edge detection algorithm
+
